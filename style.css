@@ -11,10 +11,11 @@ body {
   animation: spin 5s linear infinite;
 }
 
-#coin {
+/*#coin {
   width: 20%;
   height: 20%;
 }
+*/
 
 @keyframes spin {
   from {
